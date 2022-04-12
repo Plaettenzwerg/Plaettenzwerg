@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Plaettenzwerg
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning .R, Unix, python
+- 🌱 I’m currently learning R, Unix, python
 - 📫 How to reach me h.plettenberg@outlook.com
 
 <!---
